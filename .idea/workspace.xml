@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58797757-b7f1-4da1-a3bd-8d63763341e2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithmpractice/algos/search/binary/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmpractice/algos/search/binary/BinarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +42,10 @@
     "Application.Armstrong.executor": "Run",
     "Application.BSPractice.executor": "Run",
     "Application.BinarySearch.executor": "Run",
+    "Application.CeilingNumberSearch.executor": "Run",
     "Application.ChangeValue.executor": "Run",
     "Application.EvenDigits.executor": "Run",
+    "Application.Leetcode744.executor": "Run",
     "Application.LinearSearchAlgorithm.executor": "Debug",
     "Application.Main.executor": "Debug",
     "Application.MaximumWealth.executor": "Run",
@@ -58,17 +60,21 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sunny/IdeaProjects/dsa",
     "onboarding.tips.debug.path": "C:/Users/sunny/IdeaProjects/dsa/src/Main.java",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.OrderAgnosticBinarySearch">
+  <component name="RunManager" selected="Application.Leetcode744">
     <configuration name="BSPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algorithmpractice.algos.search.binary.BSPractice" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithmpractice.algos.search.binary.*" />
+          <option name="PATTERN" value="src.com.algorithmpractice.algos.search.binary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,7 +87,7 @@
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithmpractice.algos.search.binary.*" />
+          <option name="PATTERN" value="src.com.algorithmpractice.algos.search.binary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithmpractice.algos.search.linear.EvenDigits" />
+    <configuration name="CeilingNumberSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.algorithmpractice.algos.search.binary.CeilingNumberSearch" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithmpractice.algos.search.linear.*" />
+          <option name="PATTERN" value="src.com.algorithmpractice.algos.search.binary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumWealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithmpractice.algos.search.linear.MaximumWealth" />
+    <configuration name="Leetcode744" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.algorithmpractice.algos.search.binary.Leetcode744" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithmpractice.algos.search.linear.*" />
+          <option name="PATTERN" value="src.com.algorithmpractice.algos.search.binary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,7 +126,7 @@
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algorithmpractice.algos.search.binary.*" />
+          <option name="PATTERN" value="src.com.algorithmpractice.algos.search.binary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode744" />
+        <item itemvalue="Application.CeilingNumberSearch" />
         <item itemvalue="Application.OrderAgnosticBinarySearch" />
         <item itemvalue="Application.BSPractice" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.MaximumWealth" />
-        <item itemvalue="Application.EvenDigits" />
       </list>
     </recent_temporary>
   </component>
