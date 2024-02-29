@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58797757-b7f1-4da1-a3bd-8d63763341e2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +44,7 @@
     "Application.CeilingNumberSearch.executor": "Run",
     "Application.ChangeValue.executor": "Run",
     "Application.EvenDigits.executor": "Run",
+    "Application.FindInMountainArray.executor": "Run",
     "Application.Leetcode744.executor": "Run",
     "Application.LinearSearchAlgorithm.executor": "Debug",
     "Application.Main.executor": "Debug",
@@ -54,6 +54,7 @@
     "Application.Search2DArray.executor": "Run",
     "Application.SearchInRange.executor": "Run",
     "Application.SearchInStrings.executor": "Run",
+    "Application.SerachPeakInMountainArray.executor": "Run",
     "Application.Swap.executor": "Run",
     "Application.binaryPractice.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -68,35 +69,22 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Leetcode744">
-    <configuration name="BSPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithmpractice.algos.search.binary.BSPractice" />
-      <module name="dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.algorithmpractice.algos.search.binary.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algorithmpractice.algos.search.binary.BinarySearch" />
-      <module name="dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.algorithmpractice.algos.search.binary.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FindInMountainArray">
     <configuration name="CeilingNumberSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.com.algorithmpractice.algos.search.binary.CeilingNumberSearch" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.algorithmpractice.algos.search.binary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindInMountainArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.algorithmpractice.algos.search.binary.FindInMountainArray" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -134,13 +122,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SerachPeakInMountainArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.algorithmpractice.algos.search.binary.SerachPeakInMountainArray" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.algorithmpractice.algos.search.binary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindInMountainArray" />
+        <item itemvalue="Application.SerachPeakInMountainArray" />
         <item itemvalue="Application.Leetcode744" />
         <item itemvalue="Application.CeilingNumberSearch" />
         <item itemvalue="Application.OrderAgnosticBinarySearch" />
-        <item itemvalue="Application.BSPractice" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
