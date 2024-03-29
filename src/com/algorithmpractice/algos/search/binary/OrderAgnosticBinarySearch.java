@@ -16,7 +16,7 @@ public class OrderAgnosticBinarySearch  {
     private static String search(int[] arr,int target){
         int start=0;
         int end=arr.length-1;
-        if(checkOrder(arr)==1){
+        if(checkOrder(arr)==0){
             while(start<=end){
                 int mid=start+(end-start)/2;
                 System.out.println(mid);
