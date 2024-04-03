@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="58797757-b7f1-4da1-a3bd-8d63763341e2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithmpractice/algos/search/binary/FindInMountainArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmpractice/algos/search/binary/FindInMountainArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithmpractice/algos/search/binary/OrderAgnosticBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmpractice/algos/search/binary/OrderAgnosticBinarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +46,7 @@
     "Application.ChangeValue.executor": "Run",
     "Application.EvenDigits.executor": "Run",
     "Application.FindInMountainArray.executor": "Run",
+    "Application.InsertionSort.executor": "Debug",
     "Application.Leetcode744.executor": "Run",
     "Application.LinearSearchAlgorithm.executor": "Debug",
     "Application.Main.executor": "Debug",
@@ -76,9 +75,22 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SelectionSort">
+  <component name="RunManager" selected="Application.InsertionSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.com.algorithmpractice.algos.sort.BubbleSort" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.algorithmpractice.algos.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.algorithmpractice.algos.sort.InsertionSort" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -96,19 +108,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.com.algorithmpractice.algos.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SearchRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.algorithmpractice.algos.search.binary.SearchRotatedSortedArray" />
-      <module name="dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.algorithmpractice.algos.search.binary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.ReverseFloat" />
         <item itemvalue="Application.subString" />
-        <item itemvalue="Application.SearchRotatedSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -206,6 +205,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/algorithmpractice/algos/sort/InsertionSort.java</url>
+          <line>33</line>
+          <properties class="src.com.algorithmpractice.algos.sort.InsertionSort" method="insertionSort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
