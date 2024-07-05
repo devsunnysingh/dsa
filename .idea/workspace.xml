@@ -12,6 +12,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodyActiveAccount">
+    <option name="activeAccountId" value="VXNlcjozOTQ5MTQ=" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -24,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -46,12 +52,13 @@
     "Application.ChangeValue.executor": "Run",
     "Application.EvenDigits.executor": "Run",
     "Application.FindInMountainArray.executor": "Run",
-    "Application.InsertionSort.executor": "Debug",
+    "Application.InsertionSort.executor": "Run",
     "Application.Leetcode744.executor": "Run",
     "Application.LinearSearchAlgorithm.executor": "Debug",
     "Application.Main.executor": "Debug",
     "Application.MaximumWealth.executor": "Run",
     "Application.MinNumberInArray.executor": "Run",
+    "Application.NumberExample_withRecursion.executor": "Run",
     "Application.OrderAgnosticBinarySearch.executor": "Run",
     "Application.ReverseFloat.executor": "Run",
     "Application.Search2DArray.executor": "Run",
@@ -63,6 +70,9 @@
     "Application.Swap.executor": "Run",
     "Application.binaryPractice.executor": "Run",
     "Application.subString.executor": "Run",
+    "RunOnceActivity.CodyConvertUrlToCodebaseName": "true",
+    "RunOnceActivity.CodyHistoryLlmMigration": "true",
+    "RunOnceActivity.CodyProjectSettingsMigration": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -75,7 +85,12 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.InsertionSort">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="src.com.algorithmpractice.recursion" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.com.algorithmpractice.algos.sort.BubbleSort" />
       <module name="dsa" />
@@ -150,13 +165,6 @@
         <item itemvalue="Application.subString" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
