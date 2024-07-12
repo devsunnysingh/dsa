@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58797757-b7f1-4da1-a3bd-8d63763341e2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/algorithmpractice/recursion/practice/easy/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmpractice/recursion/practice/easy/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,49 +42,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Armstrong.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BSPractice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CeilingNumberSearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ChangeValue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindInMountainArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Leetcode744.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinearSearchAlgorithm.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MaximumWealth.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinNumberInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberExample_withRecursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OrderAgnosticBinarySearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseFloat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Search2DArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SearchInRange.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SearchInStrings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SearchRotatedSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SerachPeakInMountainArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Swap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.binaryPractice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.subString.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.CodyConvertUrlToCodebaseName&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.CodyHistoryLlmMigration&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.CodyProjectSettingsMigration&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sunny.singh/Documents/MyCode/dsa&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/sunny/IdeaProjects/dsa/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Armstrong.executor": "Run",
+    "Application.BSPractice.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CeilingNumberSearch.executor": "Run",
+    "Application.ChangeValue.executor": "Run",
+    "Application.EvenDigits.executor": "Run",
+    "Application.FindInMountainArray.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
+    "Application.Leetcode744.executor": "Run",
+    "Application.LinearSearchAlgorithm.executor": "Debug",
+    "Application.Main.executor": "Debug",
+    "Application.MaximumWealth.executor": "Run",
+    "Application.MinNumberInArray.executor": "Run",
+    "Application.NumberExample_withRecursion.executor": "Run",
+    "Application.OrderAgnosticBinarySearch.executor": "Run",
+    "Application.ReverseFloat.executor": "Run",
+    "Application.ReverseNumbers.executor": "Debug",
+    "Application.Search2DArray.executor": "Run",
+    "Application.SearchInRange.executor": "Run",
+    "Application.SearchInStrings.executor": "Run",
+    "Application.SearchRotatedSortedArray.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
+    "Application.SerachPeakInMountainArray.executor": "Run",
+    "Application.SumOfDigits.executor": "Run",
+    "Application.SumOfNNumbers.executor": "Run",
+    "Application.Swap.executor": "Run",
+    "Application.binaryPractice.executor": "Run",
+    "Application.subString.executor": "Run",
+    "RunOnceActivity.CodyConvertUrlToCodebaseName": "true",
+    "RunOnceActivity.CodyHistoryLlmMigration": "true",
+    "RunOnceActivity.CodyProjectSettingsMigration": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sunny.singh/Documents/MyCode/dsa",
+    "onboarding.tips.debug.path": "C:/Users/sunny/IdeaProjects/dsa/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="src.com.algorithmpractice.recursion" />
@@ -232,6 +235,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/algorithmpractice/recursion/practice/easy/ReverseNumbers.java</url>
+          <line>4</line>
+          <properties class="src.com.algorithmpractice.recursion.practice.easy.ReverseNumbers" method="reverseUsingRecursion">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
