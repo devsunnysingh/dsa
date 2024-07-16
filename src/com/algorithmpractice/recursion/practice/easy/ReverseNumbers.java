@@ -20,12 +20,26 @@ public class ReverseNumbers {
         rem=n % 10;
         rem=(int)(rem * Math.pow(10, base)) + reverseUsingRecursion(n / 10, base - 1);
         return rem;
-
+    }
+    static int rev2(int n){
+//        sometimes we need additional variables in the arguents of the function.
+//        in that case, we make another function
+        int digits=(int)(Math.log10(n))+1;
+        return helper(n, digits);
+    }
+    private static int helper(int n, int digits){
+        if(n%10==n){
+            return n;
+        }
+        int rem=n%10;
+        return rem* (int)Math.pow(10, digits - 1) + helper(n / 10, digits - 1);
     }
     public static void main(String[] args) {
 //        System.out.println(reverseUsingRecursion(12345));
         reverseUsingRecursion(12345);
+
         System.out.println(sum);
         System.out.println(reverseUsingRecursion(12345, 4));
+        System.out.println(   rev2(12345));
     }
 }
