@@ -7,7 +7,6 @@
     <list default="true" id="58797757-b7f1-4da1-a3bd-8d63763341e2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/cody_history.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cody_history.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algorithmpractice/recursion/practice/easy/ReverseNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithmpractice/recursion/practice/easy/ReverseNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +51,7 @@
     "Application.BubbleSort.executor": "Run",
     "Application.CeilingNumberSearch.executor": "Run",
     "Application.ChangeValue.executor": "Run",
+    "Application.CountZeros.executor": "Run",
     "Application.EvenDigits.executor": "Run",
     "Application.FindInMountainArray.executor": "Run",
     "Application.InsertionSort.executor": "Run",
@@ -62,6 +62,7 @@
     "Application.MinNumberInArray.executor": "Run",
     "Application.NumberExample_withRecursion.executor": "Run",
     "Application.OrderAgnosticBinarySearch.executor": "Run",
+    "Application.Palindrome.executor": "Run",
     "Application.ReverseFloat.executor": "Run",
     "Application.ReverseNumbers.executor": "Run",
     "Application.Search2DArray.executor": "Run",
@@ -95,7 +96,7 @@
       <recent name="src.com.algorithmpractice.recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseNumbers">
+  <component name="RunManager" selected="Application.CountZeros">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.com.algorithmpractice.algos.sort.BubbleSort" />
       <module name="dsa" />
@@ -109,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.algorithmpractice.algos.sort.InsertionSort" />
+    <configuration name="CountZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.algorithmpractice.recursion.practice.easy.CountZeros" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.algorithmpractice.algos.sort.*" />
+          <option name="PATTERN" value="src.com.algorithmpractice.recursion.practice.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseFloat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.algorithmpractice.algos.sort.ReverseFloat" />
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.algorithmpractice.algos.sort.InsertionSort" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -163,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountZeros" />
         <item itemvalue="Application.ReverseNumbers" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.ReverseFloat" />
       </list>
     </recent_temporary>
   </component>
