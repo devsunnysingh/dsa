@@ -30,7 +30,6 @@ public class SelectionSort {
                 max = i;
             }
         }
-        System.out.println("Max:"+max);
         return max;
     }
 
