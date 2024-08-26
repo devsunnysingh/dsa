@@ -36,4 +36,39 @@ Common terms in binary Trees:
 2. If we have strict BT, and we have N leaf nodes:
    - Then umber of internal nodes: N-1
    - Number of leaf nodeS: no. of internal nodes + 1
-   - 
+
+//    traversal methods (VVI)               Use case
+//    Three types:
+//    Pre order traversal, N->l->R
+//    In order traversal, L-> N-> R  --> Helps in sorting BST
+//    Post order traversal, L->R->N ---> used to Delete a binary trees
+//
+
+
+## Heaps
+
+1. Introduction to Heaps
+   Heap is a special tree-based data structure that satisfies the heap property. However, it is stored as an array.
+   Min-Heap: The key at the root must be the minimum among all keys in the heap, and the same property must be recursively true for all subtrees.
+   Max-Heap: The key at the root must be the maximum among all keys in the heap, and the same property must be recursively true for all subtrees.
+2. Properties of Heaps
+   Complete Binary Tree: Heaps are complete binary trees, meaning all levels are completely filled except possibly for the last level, which is filled from left to right.
+   Heap Height: The height of a heap is O(log n) where n is the number of nodes in the heap.
+3. Operations on Heaps
+   Insertion
+
+Insert the new element at the end of the heap (bottom rightmost position).
+Compare the inserted element with its parent and bubble up (swap) until the heap property is restored.
+Time Complexity: O(log n)
+Deletion (Remove Root)
+
+Replace the root with the last element in the heap.
+Remove the last element.
+Compare the new root with its children and bubble down (swap) until the heap property is restored.
+Time Complexity: O(log n)
+Peek (Get Root)
+
+Return the root element of the heap without removing it.
+Time Complexity: O(1)
+4. Implementation of a Heap in Java
+   Java provides a built-in PriorityQueue class that implements a min-heap by default.
